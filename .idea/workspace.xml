@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869b33fa-9d6e-4f88-befa-d1a9d513a6b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Evonyee Free Website Template - Free-CSS.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/evonyee/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/evonyee/images/._footer_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/evonyee/img/._logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/about_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/arr_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/blog1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/blog2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/call_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/call_back_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/contact_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/f_in_blog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/f_in_blog2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/footer_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/inner_page_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/lamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/layout_img/accepted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/layout_img/news_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/layout_img/quate_left_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/layout_img/testimo_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/like_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/msg_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/profile_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/search_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/share_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/sm1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/sm2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/sm3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/sm4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/t1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/t2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/t3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/t4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/wd_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/images/wd_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/img/fevicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/img/menu_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/img/slide1_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/img/slider1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/menumaker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/scrollbot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/scrollreveal.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/testimonial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evonyee/what_we_do.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LDVAYjEAyzMTnexSLCGsLmkW7A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Downloads/Evonyee Free Website Template - Free-CSS.com&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869b33fa-9d6e-4f88-befa-d1a9d513a6b9" name="Changes" comment="" />
+      <created>1675405498313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675405498313</updated>
+      <workItem from="1675405499604" duration="1953000" />
+      <workItem from="1675408155153" duration="781000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
